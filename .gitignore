@@ -1,0 +1,13 @@
+*.[ao]
+*.mo
+*.la
+*.lo
+.deps
+.libs
+
+CMakeFiles
+CMakeCache.txt
+Makefile
+Makefile.in
+config.h
+build
